@@ -1,0 +1,7 @@
+.idea/
+*.spec
+test.py
+build/
+dist/
+*.pem
+*.txt
